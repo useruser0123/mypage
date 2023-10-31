@@ -40,3 +40,6 @@
 
 
 ほげ[ふが](https://github.com/)ぴよ
+
+
+hoge[fuga](./fuga/fuga.md)
