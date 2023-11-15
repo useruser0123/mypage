@@ -1,5 +1,5 @@
 ```mermaid
-flowchart  TD;
+flowchart  LR;
 d2[袋入りラーメンを買う
 作業時間5分]
 d3[ねぎを買う
